@@ -1,0 +1,6 @@
+{
+    "author": "Anjana Manian",
+    "dependencies": {
+        "alexa-sdk": "~1.0.11"
+    }
+}
